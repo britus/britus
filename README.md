@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @britus
 - 👀 I’m interested in Linux Kernel, QT Application, Embedded and SBC systems
-- 💞️ I’m looking to collaborate on my developments for Van Life monitor system with WiFi and 4G base band
+- 💞️ I’m looking to collaborate on my developments
 - 📫 How to reach me simply /pn me here 
 
 <!---
