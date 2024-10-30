@@ -1,4 +1,4 @@
-![Empire of Fun :(-o-):]([image.jpg](https://yt3.googleusercontent.com/lSbrdAgmovQNuP_iMedFhMxL9lcsRBLgXX1_I3QTr6X0pyhgxFHbe51trXHGrFErinA5GLjCTA=w2276-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj]))
+![Empire of Fun :(-o-):]([channels4_banner.jpg]))
 - 👋 Hi, I’m @britus
 - 👀 I’m interested in Linux Kernel, QT Application, Embedded and SBC systems
 
